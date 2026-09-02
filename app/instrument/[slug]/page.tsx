@@ -1,0 +1,10 @@
+import Link from "next/link";
+import { ArrowLeft, ExternalLink } from "lucide-react";
+import synths from "@/lib/synths.json";
+import { notFound } from "next/navigation";
+
+export default async function InstrumentPage({params}:{params:Promise<{slug:string}>}){
+ const {slug}=await params; const index=synths.findIndex(s=>s.slug===slug); if(index<0)notFound(); const s=synths[index]; const prev=synths[index-1]; const next=synths[index+1];
+ const specs=[["Catégorie",s.category],["Voix",s.voices],["Polyphonie",s.polyphony],["Forme d’onde",s.waveform],["Filtre",s.filter],["Oscillateurs",s.oscillators],["Clavier",s.keybed],["Mémoire",s.memory],["MIDI",s.midi]].filter(([,v])=>v);
+ return <main className="detail-page"><nav className="detail-nav"><Link href="/"><ArrowLeft size={18}/> Retour à la frise</Link><span>{s.year}</span></nav><article className="detail-grid"><div className="detail-visual">{s.image?<img src={s.image} alt={`${s.name}, ${s.year}`} referrerPolicy="no-referrer"/>:<div className="detail-wave">∿</div>}<div className="scan-lines"/></div><div className="detail-copy"><p className="eyebrow">{s.manufacturer} · {s.category||"instrument électronique"}</p><h1>{s.name.replace(`${s.manufacturer} `,"")}</h1><p className="big-year">{s.year}</p>{s.description&&<p className="description">{s.description}</p>}{specs.length>0&&<dl>{specs.map(([k,v])=><div key={k}><dt>{k}</dt><dd>{v}</dd></div>)}</dl>}<div className="sources">{s.url&&<a href={s.url} target="_blank" rel="noreferrer">Source principale <ExternalLink size={15}/></a>}{s.imageSource&&<a href={s.imageSource} target="_blank" rel="noreferrer">Source de l’image <ExternalLink size={15}/></a>}</div>{s.imageCredit&&<p className="credit">Image : {s.imageCredit}. {s.imageLicense}</p>}</div></article><nav className="prev-next">{prev?<Link href={`/instrument/${prev.slug}`}><small>← Précédent</small><span>{prev.name}</span></Link>:<span/>}{next&&<Link href={`/instrument/${next.slug}`}><small>Suivant →</small><span>{next.name}</span></Link>}</nav></main>
+}
