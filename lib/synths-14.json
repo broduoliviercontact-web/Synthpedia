@@ -807,8 +807,8 @@
     "midi": "",
     "description": "Vermona PERfourMER MKII is a four-voice analog synthesizer designed and manufactured by Vermona, a German company. It has been used by a variety of artists, including Aphex Twin, Autechre, and Squarepusher.  The PERfourMER MKII is a semi-modular analog synthesizer with four independent voices. It features two oscillators per voice, two low-pass filters, two envelopes, and two LFOs. It also has a built-in sequencer and arpeggiator, as well as a variety of modulation options. The PERfourMER MKII a",
     "url": "https://synthpedia.net/vermona/perfourmer-mkii/",
-    "image": "wikimedia http://synthpedia.net/images/products/vermona-perfourmer-mkii.png",
-    "imageSource": "",
+    "image": "https://synthpedia.net/images/products/vermona-perfourmer-mkii.png",
+    "imageSource": "https://synthpedia.net/vermona/perfourmer-mkii/",
     "imageCredit": "",
     "imageLicense": "Unknown — permission to reuse must be checked",
     "imageStatus": "third_party_existing"
