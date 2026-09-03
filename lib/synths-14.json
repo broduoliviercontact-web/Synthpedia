@@ -522,10 +522,10 @@
     "description": "Korg nanoSERIES 2 is a line of compact, portable MIDI controllers designed for use with music production software. It was developed by Korg, a Japanese company that specializes in musical instruments and audio equipment. It has been used by many professional musicians, producers, and DJs.  The Korg nanoSERIES 2 is a USB-powered controller that features eight velocity-sensitive pads, eight knobs, and eight sliders. It also has a built-in arpeggiator and a step sequencer. The controller is designe",
     "url": "https://synthpedia.net/korg/nanoseries-2/",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/KORG_nano_series_in_black.jpg",
-    "imageSource": "https://commons.wikimedia.org/wiki/File:KORG_nano_series_in_black.jpg",
-    "imageCredit": "Korg Nano Controllers in black Uploaded by shoulder-synth",
-    "imageLicense": "CC BY-SA 2.0",
-    "imageStatus": "existing_needs_review"
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3AKORG_nano_series_in_black.jpg",
+    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/54581307@N00\">Brandon Daniel</a> from Sunnyvale, CA, USA",
+    "imageLicense": "cc-by-sa-2.0",
+    "imageStatus": "verified_commons"
   },
   {
     "slug": "korg-pa3x",
@@ -698,10 +698,10 @@
     "description": "Novation Impulse is a range of MIDI controllers designed for use with music production software. It is used by professional and amateur musicians alike, and is popular for its intuitive design and range of features. The Impulse range includes 25, 49 and 61-key models, each with 8 velocity-sensitive pads, 8 rotary knobs and 9 faders. The controllers are designed to be used with a variety of music production software, including Ableton Live, Logic Pro, Pro Tools and Reason.  The Impulse range feat",
     "url": "https://synthpedia.net/novation/impulse/",
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Flynn_nrg%27s_music_room.jpg",
-    "imageSource": "https://commons.wikimedia.org/wiki/File:Flynn_nrg%27s_music_room.jpg",
-    "imageCredit": "Flickr : Music room",
-    "imageLicense": "CC BY 2.0",
-    "imageStatus": "existing_needs_review"
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3AFlynn_nrg%27s_music_room.jpg",
+    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/44124412769@N01\">Miguel Mendez</a>",
+    "imageLicense": "cc-by-2.0",
+    "imageStatus": "verified_commons"
   },
   {
     "slug": "novation-twitch",
@@ -984,10 +984,10 @@
     "description": "Yamaha VOCALOID3 is a singing voice synthesizer developed by Yamaha Corporation. It is used to create singing voices by inputting lyrics and melody. It has been used by many popular artists, including Hatsune Miku, GUMI, and IA.  Yamaha VOCALOID3 works by using a synthesized vocal library to create a singing voice. It has a variety of features, including a powerful vocal editor, a pitch editor, a vocal library, and a vocal tuning feature. It also has a variety of vocal effects, such as vibrato, ",
     "url": "https://synthpedia.net/yamaha/vocaloid3/",
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Main_logo_vocaloid3.jpg",
-    "imageSource": "https://commons.wikimedia.org/wiki/File:Main_logo_vocaloid3.jpg",
-    "imageCredit": "http://www.vocaloid.com",
-    "imageLicense": "Public domain",
-    "imageStatus": "existing_needs_review"
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3AMain_logo_vocaloid3.jpg",
+    "imageCredit": "Yamaha Corporation",
+    "imageLicense": "pd",
+    "imageStatus": "verified_commons"
   },
   {
     "slug": "akai-mpc-fly",
@@ -1556,10 +1556,10 @@
     "description": "Korg Krome is a music workstation synthesizer released by Korg in 2012. It is designed to provide a comprehensive range of sounds and features for both live and studio use. It is used by many professional musicians, producers, and composers, including Skrillex, Deadmau5, and Steve Aoki.  Korg Krome features a 61-key semi-weighted keyboard with velocity and aftertouch sensitivity. It has a built-in 16-track sequencer, a variety of effects, and a library of over 700 sounds. It also has a built-in ",
     "url": "https://synthpedia.net/korg/krome/",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Kk61.jpg",
-    "imageSource": "https://commons.wikimedia.org/wiki/File:Kk61.jpg",
-    "imageCredit": "Own work",
-    "imageLicense": "CC BY-SA 3.0",
-    "imageStatus": "existing_needs_review"
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3AKk61.jpg",
+    "imageCredit": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Nj2003&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Nj2003 (page does not exist)\">Nj2003</a>",
+    "imageLicense": "cc-by-sa-3.0",
+    "imageStatus": "verified_commons"
   },
   {
     "slug": "korg-kronos-x",
@@ -1600,10 +1600,10 @@
     "description": "Korg microKEY 25 and 61 are MIDI keyboards designed for use with computers and other electronic music devices. They are designed to be lightweight and portable, making them ideal for musicians on the go. The microKEY 25 has 25 velocity-sensitive keys, while the microKEY 61 has 61 velocity-sensitive keys. Both keyboards feature pitch and modulation wheels, as well as a sustain pedal input.  The microKEY keyboards have been used by a variety of musicians, including professional producers, composer",
     "url": "https://synthpedia.net/korg/microkey-25-and-61/",
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/KORG_microKEY-61_-_zoomed_to_one_octave_%28by_JaggyBoss%29.jpg",
-    "imageSource": "https://commons.wikimedia.org/wiki/File:KORG_microKEY-61_-_zoomed_to_one_octave_(by_JaggyBoss).jpg",
-    "imageCredit": "実家用にKORGのmicroKEY-61を購入 楽しくて、あっという間に時間が経っててビックリ",
-    "imageLicense": "CC BY-SA 2.0",
-    "imageStatus": "existing_needs_review"
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3AKORG_microKEY-61_-_zoomed_to_one_octave_%28by_JaggyBoss%29.jpg",
+    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/43722173@N05\">JaggyBoss</a> from JAPAN",
+    "imageLicense": "cc-by-sa-2.0",
+    "imageStatus": "verified_commons"
   },
   {
     "slug": "korg-microkorg-xl-2",

@@ -148,10 +148,10 @@
     "description": "The Yamaha PSS-190 is a portable keyboard synthesizer released in the late 1980s. It was used by many professional musicians, including the likes of Depeche Mode, The Cure, and The Smiths. The PSS-190 is a monophonic synthesizer with a built-in sequencer and a variety of sound-shaping features. It has a two-octave keyboard, a built-in speaker, and a headphone jack. It also has a built-in arpeggiator, a pitch-bend wheel, and a variety of sound-shaping controls. The PSS-190 is a great choice for t",
     "url": "https://synthpedia.net/yamaha/pss-190/",
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/Yamaha_PSS-50_logo.jpg",
-    "imageSource": "https://commons.wikimedia.org/wiki/File:Yamaha_PSS-50_logo.jpg",
-    "imageCredit": "originally posted to Flickr as PSS-50",
-    "imageLicense": "CC BY 2.0",
-    "imageStatus": "existing_needs_review"
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3AYamaha_PSS-50_logo.jpg",
+    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/35824610@N00\">israel avila</a>",
+    "imageLicense": "cc-by-2.0",
+    "imageStatus": "verified_commons"
   },
   {
     "slug": "yamaha-pss-290",
@@ -346,10 +346,10 @@
     "description": "Yamaha TG77 is a digital synthesizer released by Yamaha in 1991. It was used by many artists, including Nine Inch Nails, Aphex Twin, and Orbital. The TG77 is a multitimbral, 16-voice polyphonic synthesizer with a 61-key velocity-sensitive keyboard. It features a wide range of synthesis capabilities, including FM synthesis, waveform synthesis, and sample-based synthesis. It also has a built-in sequencer, arpeggiator, and effects processor. The TG77 is capable of producing a wide range of sounds, ",
     "url": "https://synthpedia.net/yamaha/tg77/",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/Audio_racks.jpg",
-    "imageSource": "https://commons.wikimedia.org/wiki/File:Audio_racks.jpg",
-    "imageCredit": "Selbst fotografiert",
-    "imageLicense": "CC BY-SA 3.0",
-    "imageStatus": "existing_needs_review"
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3AAudio_racks.jpg",
+    "imageCredit": "<p>Stephan Nachtsheim<br>\n</p>\n<a href=\"https://de.wikipedia.org/wiki/User:Stephan_N\" class=\"extiw\" title=\"de:User:Stephan N\">Stephan N</a> at <a class=\"external text\" data-mw-original-href=\"http://de.wikipedia.org\" href=\"https://de.wikipedia.org\">de.wikipedia</a>",
+    "imageLicense": "cc-by-sa-3.0",
+    "imageStatus": "verified_commons"
   },
   {
     "slug": "akai-mpc60-ii",
@@ -544,10 +544,10 @@
     "description": "The Roland SC-55 Sound Canvas is a MIDI sound module released by Roland Corporation in 1991. It was the first module in the Sound Canvas series and was the first MIDI module to feature built-in wavetable synthesis. It was used by many musicians and producers in the 1990s and is still popular today.  The SC-55 works by receiving MIDI data from a connected MIDI controller or sequencer and then playing back the corresponding sound. It has a built-in library of sounds, including drums, bass, strings",
     "url": "https://synthpedia.net/roland/sc-55-sound-canvas/",
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Roland_SCC-1.jpg",
-    "imageSource": "https://commons.wikimedia.org/wiki/File:Roland_SCC-1.jpg",
-    "imageCredit": "Own work",
-    "imageLicense": "CC0",
-    "imageStatus": "existing_needs_review"
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3ARoland_SCC-1.jpg",
+    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Austriacus\" title=\"User:Austriacus\">Austriacus</a>",
+    "imageLicense": "cc0",
+    "imageStatus": "verified_commons"
   },
   {
     "slug": "waldorf-microwave-waveslave",
@@ -1270,10 +1270,10 @@
     "description": "The Roland GR1 is a guitar synthesizer released by Roland in 1988. It is a guitar-to-MIDI converter that allows a guitar to be used to control synthesizers, samplers, and other MIDI-equipped instruments. It has been used by a variety of artists, including Steve Vai, Joe Satriani, and John Petrucci.  The GR1 works by converting the guitar's signal into MIDI data. It has a variety of features, including a built-in synthesizer, a built-in effects processor, and a built-in sequencer. It also has a v",
     "url": "https://synthpedia.net/roland/gr1/",
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/Sthubertus-gr1.jpg",
-    "imageSource": "https://commons.wikimedia.org/wiki/File:Sthubertus-gr1.jpg",
-    "imageCredit": "Own work ( Original text: Eigene Fotographie )",
-    "imageLicense": "CC BY-SA 3.0",
-    "imageStatus": "existing_needs_review"
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3ASthubertus-gr1.jpg",
+    "imageCredit": "<a href=\"https://de.wikipedia.org/wiki/Benutzer:mrfinch\" class=\"extiw\" title=\"de:Benutzer:mrfinch\">Roland Steinebach</a>",
+    "imageLicense": "cc-by-sa-3.0",
+    "imageStatus": "verified_commons"
   },
   {
     "slug": "roland-hp2900g",

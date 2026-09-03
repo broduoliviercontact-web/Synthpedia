@@ -1248,10 +1248,10 @@
     "description": "Korg Legacy Collection is a suite of virtual instruments and effects developed by Korg. It is used by many professional musicians, producers, and sound designers. It works by emulating the sound of classic Korg synthesizers and effects, allowing users to recreate the sounds of classic Korg instruments. It features a wide range of sounds, from vintage analog synths to modern digital effects. It also includes a range of effects, such as chorus, delay, reverb, and more. Additionally, it includes a ",
     "url": "https://synthpedia.net/korg/legacy-collection/",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/KLC_Wavestation.png",
-    "imageSource": "https://commons.wikimedia.org/wiki/File:KLC_Wavestation.png",
-    "imageCredit": "Own work",
-    "imageLicense": "CC BY-SA 3.0",
-    "imageStatus": "existing_needs_review"
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3AKLC_Wavestation.png",
+    "imageCredit": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Gridsleep&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Gridsleep (page does not exist)\">Gridsleep</a>",
+    "imageLicense": "cc-by-sa-3.0",
+    "imageStatus": "verified_commons"
   },
   {
     "slug": "korg-pa1x",
@@ -1512,10 +1512,10 @@
     "description": "Roland EXR3 is a digital synthesizer and arranger keyboard produced by Roland Corporation. It was released in 1998 and was used by many professional musicians, including Herbie Hancock, Chick Corea, and John Scofield.  The EXR3 is a 61-key keyboard with a built-in sequencer and a variety of sounds and effects. It has a wide range of sounds, including pianos, organs, strings, brass, and drums. It also has a variety of effects, such as reverb, chorus, and delay. The EXR3 also has a built-in arpegg",
     "url": "https://synthpedia.net/roland/exr3/",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Roland_Keyboard.jpg",
-    "imageSource": "https://commons.wikimedia.org/wiki/File:Roland_Keyboard.jpg",
-    "imageCredit": "",
-    "imageLicense": "CC BY-SA 3.0",
-    "imageStatus": "existing_needs_review"
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3ARoland_Keyboard.jpg",
+    "imageCredit": "unknown",
+    "imageLicense": "cc-by-sa-3.0",
+    "imageStatus": "verified_commons"
   },
   {
     "slug": "roland-exr5",
@@ -1710,10 +1710,10 @@
     "description": "The Roland GK3 divided pickup is a guitar pickup system that allows guitarists to access a wide range of sounds and effects. It is used by many professional guitarists, including Steve Vai, Joe Satriani, and John Petrucci. The GK3 pickup is a hexaphonic pickup that is installed on the guitar's bridge. It is connected to a Roland GK-compatible guitar synthesizer, such as the GR-55 or VG-99. The pickup is divided into six separate sections, each of which can be assigned to a different sound or eff",
     "url": "https://synthpedia.net/roland/gk3-divided-pickup/",
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Roland_Divided_PickUP_GK-3.jpg",
-    "imageSource": "https://commons.wikimedia.org/wiki/File:Roland_Divided_PickUP_GK-3.jpg",
-    "imageCredit": "Own work",
-    "imageLicense": "CC BY-SA 3.0",
-    "imageStatus": "existing_needs_review"
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3ARoland_Divided_PickUP_GK-3.jpg",
+    "imageCredit": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Takasaki001&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Takasaki001 (page does not exist)\">Takasaki001</a>",
+    "imageLicense": "cc-by-sa-3.0",
+    "imageStatus": "verified_commons"
   },
   {
     "slug": "roland-gk3b-divided-bass-pickup",

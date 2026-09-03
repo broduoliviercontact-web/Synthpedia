@@ -280,10 +280,10 @@
     "description": "The Korg Electribe M EM-1 is a powerful and versatile music production station designed for both live performance and studio production. It is a powerful and intuitive music production station that allows users to create and manipulate sounds in real-time. It has been used by a variety of artists, including Aphex Twin, The Prodigy, and The Chemical Brothers.  The Electribe M EM-1 features a 16-track sequencer, a variety of synthesis engines, and a wide range of effects. It also has a built-in ar",
     "url": "https://synthpedia.net/korg/electribe-m-em-1/",
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Korg_Electribe_MX_%28EMX-1%29.jpg",
-    "imageSource": "https://commons.wikimedia.org/wiki/File:Korg_Electribe_MX_(EMX-1).jpg",
-    "imageCredit": "Korg_Electribe_MX_(EMX-1).jpg Grooveboxes_-_ESX-1,_MC-303.jpg",
-    "imageLicense": "CC BY-SA 3.0",
-    "imageStatus": "existing_needs_review"
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3AKorg_Electribe_MX_%28EMX-1%29.jpg",
+    "imageCredit": "<ul><li><a class=\"mw-selflink selflink\">Korg_Electribe_MX_(EMX-1).jpg</a>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/18897197@N00\">Ben and Kaz Askins</a></li>\n<li><a href=\"//commons.wikimedia.org/wiki/File:Grooveboxes_-_ESX-1,_MC-303.jpg\" title=\"File:Grooveboxes - ESX-1, MC-303.jpg\">Grooveboxes_-_ESX-1,_MC-303.jpg</a>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/14306425@N04\">Ludo</a></li>\n<li>derivative work: <a href=\"//commons.wikimedia.org/wiki/User:Shoulder-synth\" title=\"User:Shoulder-synth\">Shoulder-synth</a> (<a href=\"//commons.wikimedia.org/wiki/User_talk:Shoulder-synth\" title=\"User talk:Shoulder-synth\"><span class=\"signature-talk\">talk</span></a>)</li></ul>",
+    "imageLicense": "cc-by-sa-3.0",
+    "imageStatus": "verified_commons"
   },
   {
     "slug": "korg-ms2000",
@@ -346,10 +346,10 @@
     "description": "Korg Triton Rack 2U is a rack-mounted version of the classic Korg Triton synthesizer. It is a powerful and versatile synthesizer that has been used by many professional musicians, producers, and composers. It features a wide range of sounds, from classic analog to modern digital, and is capable of producing a wide range of musical styles. It has a 61-note velocity-sensitive keyboard, 16-track sequencer, and a variety of effects and modulation options. It also has a built-in arpeggiator and a pow",
     "url": "https://synthpedia.net/korg/triton-rack-2u/",
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Triton_rack_adjusted.jpg",
-    "imageSource": "https://commons.wikimedia.org/wiki/File:Triton_rack_adjusted.jpg",
-    "imageCredit": "Transferred from en.wikipedia to Commons.",
-    "imageLicense": "Public domain",
-    "imageStatus": "existing_needs_review"
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3ATriton_rack_adjusted.jpg",
+    "imageCredit": "<a href=\"https://en.wikipedia.org/wiki/User:Skies\" class=\"extiw\" title=\"wikipedia:User:Skies\">Skies</a> at <a href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\">English Wikipedia</a>",
+    "imageLicense": "pd",
+    "imageStatus": "verified_commons"
   },
   {
     "slug": "novation-supernova-ii",
@@ -1138,10 +1138,10 @@
     "description": "The Roland AT-90S is a professional-grade, rack-mountable synthesizer module. It was released in the early 1990s and was used by many professional musicians, including Nine Inch Nails, The Prodigy, and The Chemical Brothers.  The AT-90S is a digital synthesizer that uses a combination of analog and digital synthesis techniques to create a wide range of sounds. It features two oscillators, two filters, two envelope generators, two LFOs, and a variety of modulation and effects options. It also has",
     "url": "https://synthpedia.net/roland/at-90s/",
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Digital_delays.jpg",
-    "imageSource": "https://commons.wikimedia.org/wiki/File:Digital_delays.jpg",
-    "imageCredit": "digital delays Uploaded by shoulder-synth",
-    "imageLicense": "CC BY-SA 2.0",
-    "imageStatus": "existing_needs_review"
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3ADigital_delays.jpg",
+    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/54581307@N00\">Brandon Daniel</a> from Sunnyvale, CA, USA",
+    "imageLicense": "cc-by-sa-2.0",
+    "imageStatus": "verified_commons"
   },
   {
     "slug": "roland-ax-7-keytar",

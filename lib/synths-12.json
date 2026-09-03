@@ -170,10 +170,10 @@
     "description": "The Akai MPC1000BK is a drum machine and sampler that was released in 2003. It is a popular choice among hip-hop and electronic music producers. It is a powerful and versatile tool that allows users to create beats, samples, and sequences. It features a 16-track sequencer, 16 velocity-sensitive pads, and a variety of effects and filters. It also has a built-in sampler, allowing users to record and manipulate samples. It is capable of storing up to 128MB of samples and sequences. It has been used",
     "url": "https://synthpedia.net/akai/mpc1000bk/",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Akai_MPC1000_black.jpg",
-    "imageSource": "https://commons.wikimedia.org/wiki/File:Akai_MPC1000_black.jpg",
-    "imageCredit": "Flickr : Akai MPC 1000",
-    "imageLicense": "CC BY 2.0",
-    "imageStatus": "existing_needs_review"
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3AAkai_MPC1000_black.jpg",
+    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/34695342@N00\">paulkhor</a>",
+    "imageLicense": "cc-by-2.0",
+    "imageStatus": "verified_commons"
   },
   {
     "slug": "akai-mpc2500",
@@ -544,10 +544,10 @@
     "description": "Elektron Machinedrum UW is a drum machine and sequencer designed by Swedish company Elektron. It is a powerful and versatile instrument that has been used by a variety of artists, including Aphex Twin, Flying Lotus, and Four Tet. The Machinedrum UW is a hybrid analog/digital drum machine that allows users to create complex rhythms and patterns. It features 16 velocity-sensitive pads, a step sequencer, and a variety of sound sources, including samples, synthesis, and external audio. It also has a",
     "url": "https://synthpedia.net/elektron/machinedrum-uw/",
     "image": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Elektron_MACHINEDRUM_SPS-1UW_on_green.jpg",
-    "imageSource": "https://commons.wikimedia.org/wiki/File:Elektron_MACHINEDRUM_SPS-1UW_on_green.jpg",
-    "imageCredit": "Flickr : SANY0002mdNature",
-    "imageLicense": "CC BY 2.0",
-    "imageStatus": "existing_needs_review"
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3AElektron_MACHINEDRUM_SPS-1UW_on_green.jpg",
+    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/58972197@N00\">j bizzie</a>",
+    "imageLicense": "cc-by-2.0",
+    "imageStatus": "verified_commons"
   },
   {
     "slug": "korg-oasys",
@@ -1182,10 +1182,10 @@
     "description": "The Korg Kaoss Pad KP3 is a digital effects processor and sampler designed for DJs and musicians. It was first released in 2004 and has since become a popular tool for live performance and studio production. It is a small, portable device that allows users to manipulate sound in real-time using a touchpad and various knobs and buttons. It has a variety of features, including a built-in sampler, a loop recorder, a vocoder, and a variety of effects. It has been used by a variety of artists, includ",
     "url": "https://synthpedia.net/korg/kaoss-pad-kp3/",
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Korg_Kaoss_Pad_3_KP3.jpg",
-    "imageSource": "https://commons.wikimedia.org/wiki/File:Korg_Kaoss_Pad_3_KP3.jpg",
-    "imageCredit": "Own work",
-    "imageLicense": "CC BY 3.0",
-    "imageStatus": "existing_needs_review"
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3AKorg_Kaoss_Pad_3_KP3.jpg",
+    "imageCredit": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Mygrooveshop&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Mygrooveshop (page does not exist)\">Mygrooveshop</a>",
+    "imageLicense": "cc-by-3.0",
+    "imageStatus": "verified_commons"
   },
   {
     "slug": "korg-microx-compact-x50",

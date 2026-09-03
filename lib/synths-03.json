@@ -742,10 +742,10 @@
     "description": "The Roland CMU810 Compu Synth is a vintage synthesizer from the 1980s. It was used by many popular musicians, including Depeche Mode, New Order, and The Cure. It is a hybrid analog/digital synthesizer that combines the sound of analog synthesis with the flexibility of digital control. It features two oscillators, two envelope generators, two low-frequency oscillators, and a noise generator. It also has a built-in arpeggiator and a 16-voice polyphonic sequencer. The CMU810 also has a built-in cho",
     "url": "https://synthpedia.net/roland/cmu810-compu-synth/",
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/40_anys_de_m%C3%BAsica_electr%C3%B2nica_a_Barcelona_exposici%C3%B3_al_Museu_de_la_M%C3%BAsica_09.jpg",
-    "imageSource": "https://commons.wikimedia.org/wiki/File:40_anys_de_m%C3%BAsica_electr%C3%B2nica_a_Barcelona_exposici%C3%B3_al_Museu_de_la_M%C3%BAsica_09.jpg",
-    "imageCredit": "Own work",
-    "imageLicense": "CC BY-SA 4.0",
-    "imageStatus": "existing_needs_review"
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3A40_anys_de_m%C3%BAsica_electr%C3%B2nica_a_Barcelona_exposici%C3%B3_al_Museu_de_la_M%C3%BAsica_09.jpg",
+    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Kippelboy\" title=\"User:Kippelboy\">Kippelboy</a>",
+    "imageLicense": "cc-by-sa-4.0",
+    "imageStatus": "verified_commons"
   },
   {
     "slug": "roland-dxy-100r-x-y-plotter",
@@ -1402,10 +1402,10 @@
     "description": "The E-mu Emulator II is a classic digital sampling synthesizer from the 1980s. It was used by a variety of artists, including Depeche Mode, New Order, and The Cure. It works by sampling sounds and then playing them back at different pitches and speeds. It has a variety of features, including a 16-bit sampling resolution, a built-in sequencer, and a variety of effects. It also has a variety of expansion cards that can be used to add additional features. ",
     "url": "https://synthpedia.net/e-mu/emulator-ii/",
     "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/E-mu_Emulator_II_-_front.jpg",
-    "imageSource": "https://commons.wikimedia.org/wiki/File:E-mu_Emulator_II_-_front.jpg",
-    "imageCredit": "http://www.vintagesynth.com/emu/emulator2.php",
-    "imageLicense": "CC BY 3.0",
-    "imageStatus": "existing_needs_review"
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3AE-mu_Emulator_II_-_front.jpg",
+    "imageCredit": "copyright holder: Matt Friedman",
+    "imageLicense": "cc-by-3.0",
+    "imageStatus": "verified_commons"
   },
   {
     "slug": "korg-rk-100",
@@ -2282,10 +2282,10 @@
     "description": "The E-mu SP-12 Drum Sampler is a classic drum machine from the early 1990s. It was used by many hip-hop and electronic music producers, including Dr. Dre, The Prodigy, and Moby. It is a 12-bit sampler with a built-in sequencer and a variety of sound-shaping features. It has a built-in library of sounds, including drums, percussion, and bass, as well as the ability to sample and store sounds from external sources. It also has a variety of effects, including reverb, delay, and distortion. The SP-1",
     "url": "https://synthpedia.net/e-mu/sp-12-drum-sampler/",
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/e5/E-mu_SP-12.jpg",
-    "imageSource": "https://commons.wikimedia.org/wiki/File:E-mu_SP-12.jpg",
-    "imageCredit": "This file was derived from: E-mu SP-12.svg",
-    "imageLicense": "CC BY-SA 3.0",
-    "imageStatus": "existing_needs_review"
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3AE-mu_SP-12.jpg",
+    "imageCredit": "<ul><li><a href=\"//commons.wikimedia.org/wiki/File:E-mu_SP-12.svg\" title=\"File:E-mu SP-12.svg\">E-mu SP-12.svg</a>: <a href=\"//commons.wikimedia.org/wiki/User:Clusternote\" title=\"User:Clusternote\">Clusternote</a></li>\n<li>derivative work: <a href=\"//commons.wikimedia.org/wiki/User:Clusternote\" title=\"User:Clusternote\">Clusternote</a></li></ul>",
+    "imageLicense": "cc-by-sa-3.0",
+    "imageStatus": "verified_commons"
   },
   {
     "slug": "ensoniq-mirage",

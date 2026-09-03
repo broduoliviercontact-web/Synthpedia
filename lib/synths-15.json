@@ -1270,10 +1270,10 @@
     "description": "Korg Gadget is a music production software developed by Korg, a Japanese company that specializes in electronic musical instruments. It is a powerful and intuitive music production suite that allows users to create music on their computer or mobile device. It has been used by professional musicians, producers, and DJs, as well as hobbyists and amateurs.  Korg Gadget works by allowing users to create music using a variety of virtual instruments, effects, and tools. It features a library of over 4",
     "url": "https://synthpedia.net/korg/gadget/",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Recording_equipments%2C_Studio_Pic_2%2C_2009-04-20_%28by_Jordan_Colburn%29.jpg",
-    "imageSource": "https://commons.wikimedia.org/wiki/File:Recording_equipments%2C_Studio_Pic_2%2C_2009-04-20_(by_Jordan_Colburn).jpg",
-    "imageCredit": "Flickr : Studio Pic 2",
-    "imageLicense": "CC BY-SA 2.0",
-    "imageStatus": "existing_needs_review"
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3ARecording_equipments%2C_Studio_Pic_2%2C_2009-04-20_%28by_Jordan_Colburn%29.jpg",
+    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/36939265@N06\">Jordan Colburn</a>",
+    "imageLicense": "cc-by-sa-2.0",
+    "imageStatus": "verified_commons"
   },
   {
     "slug": "korg-kronos-2",
@@ -1842,10 +1842,10 @@
     "description": "Yamaha VOCALOID4 is a singing voice synthesizer software developed by Yamaha Corporation. It is used to create singing voices by inputting lyrics and melody. It has been used by many popular artists such as Hatsune Miku, IA, and GUMI.  Yamaha VOCALOID4 works by using a vocal library of recorded samples of real singers. These samples are then combined and manipulated to create a synthesized voice. The software also includes a variety of features such as pitch and formant manipulation, vibrato con",
     "url": "https://synthpedia.net/yamaha/vocaloid4/",
     "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Logo_vocaloid_four.png",
-    "imageSource": "https://commons.wikimedia.org/wiki/File:Logo_vocaloid_four.png",
-    "imageCredit": "Crypton Future Media",
-    "imageLicense": "Public domain",
-    "imageStatus": "existing_needs_review"
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3ALogo_vocaloid_four.png",
+    "imageCredit": "Yamaha Corporation",
+    "imageLicense": "pd",
+    "imageStatus": "verified_commons"
   },
   {
     "slug": "akai-timbre-wolf",

@@ -632,10 +632,10 @@
     "description": "The Roland AT-90 is a vintage analog synthesizer from the 1980s. It was used by a variety of artists, including Depeche Mode, New Order, and The Cure. The AT-90 is a two-oscillator synthesizer with a built-in chorus effect. It features a 32-note keyboard, a built-in arpeggiator, and a variety of modulation and filter controls. It also has a built-in sequencer and a variety of patch memory locations. The AT-90 is capable of producing a wide range of sounds, from classic analog bass and lead sound",
     "url": "https://synthpedia.net/roland/at-90/",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/30/Roland_JV-90_back.jpg",
-    "imageSource": "https://commons.wikimedia.org/wiki/File:Roland_JV-90_back.jpg",
-    "imageCredit": "Own work",
-    "imageLicense": "CC BY-SA 3.0",
-    "imageStatus": "existing_needs_review"
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3ARoland_JV-90_back.jpg",
+    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:Yasu\" title=\"User:Yasu\">Yasu</a>",
+    "imageLicense": "cc-by-sa-3.0",
+    "imageStatus": "verified_commons"
   },
   {
     "slug": "roland-dj-70mkii",
@@ -1556,10 +1556,10 @@
     "description": " Rackmount synth module with hip hop style preset sounds.",
     "url": "https://synthpedia.net/e-mu/planet-phat/",
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Plannet_Phatt%2C_Orbit.jpg",
-    "imageSource": "https://commons.wikimedia.org/wiki/File:Plannet_Phatt%2C_Orbit.jpg",
-    "imageCredit": "Effects_rack,_pete,_NYC.jpg",
-    "imageLicense": "CC BY 2.0",
-    "imageStatus": "existing_needs_review"
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3APlannet_Phatt%2C_Orbit.jpg",
+    "imageCredit": "<ul><li><a href=\"//commons.wikimedia.org/wiki/File:Effects_rack,_pete,_NYC.jpg\" title=\"File:Effects rack, pete, NYC.jpg\">Effects_rack,_pete,_NYC.jpg</a>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/44375806@N00\">Patrick Woodward</a></li>\n<li>derivative work: <a href=\"//commons.wikimedia.org/wiki/User:Clusternote\" title=\"User:Clusternote\">Clusternote</a> (<a href=\"//commons.wikimedia.org/wiki/User_talk:Clusternote\" title=\"User talk:Clusternote\"><span class=\"signature-talk\">talk</span></a>)</li></ul>",
+    "imageLicense": "cc-by-2.0",
+    "imageStatus": "verified_commons"
   },
   {
     "slug": "ensoniq-asr-x",
@@ -1776,10 +1776,10 @@
     "description": "The Roland AT-80 Organ is a vintage electronic organ from the 1980s. It was used by a variety of artists, including Prince, The Cure, and The Smiths. The AT-80 is a two-manual organ with a 61-note keyboard and a 32-note pedalboard. It features a variety of sounds, including electric pianos, strings, and organs. It also has a built-in chorus and vibrato effects, as well as a built-in rhythm machine. The AT-80 is an analog instrument, meaning that it uses analog circuitry to generate its sounds. I",
     "url": "https://synthpedia.net/roland/at-80-organ/",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Helloitabot%27sStudio1.jpg",
-    "imageSource": "https://commons.wikimedia.org/wiki/File:Helloitabot%27sStudio1.jpg",
-    "imageCredit": "originally posted to Flickr as DSC01318",
-    "imageLicense": "CC BY-SA 2.0",
-    "imageStatus": "existing_needs_review"
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3AHelloitabot%27sStudio1.jpg",
+    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://flickr.com/people/28491187@N00\">helloitabot</a>",
+    "imageLicense": "cc-by-sa-2.0",
+    "imageStatus": "verified_commons"
   },
   {
     "slug": "roland-jp-8000-analog-synthesizer",

@@ -940,10 +940,10 @@
     "description": "ARP String Ensemble is a virtual instrument developed by Arturia. It is a recreation of the classic ARP String Synthesizer from the 1970s. It is a polyphonic string synthesizer that uses a combination of subtractive synthesis and frequency modulation to create its unique sound. It features a wide range of parameters, including a four-voice polyphony, two oscillators, two LFOs, two envelopes, and a built-in chorus effect. It also includes a range of presets and a step sequencer for creating compl",
     "url": "https://synthpedia.net/arp/string-ensemble/",
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/ARP_Solina_String_Ensemble.jpg",
-    "imageSource": "https://commons.wikimedia.org/wiki/File:ARP_Solina_String_Ensemble.jpg",
-    "imageCredit": "Transferred from it.wikipedia ; transfer was stated to be made by User:Kimi95 . (Original text : http://www.vintagesynth.com/arp/string.php e http://www.vintagesynth.com/arp/string.jpg )",
-    "imageLicense": "CC BY 3.0",
-    "imageStatus": "existing_needs_review"
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3AARP_Solina_String_Ensemble.jpg",
+    "imageCredit": "<p>.\n</p>\nOriginal uploader was <a href=\"https://it.wikipedia.org/wiki/User:Kimi95\" class=\"extiw\" title=\"it:User:Kimi95\">Kimi95</a> at <a class=\"external text\" data-mw-original-href=\"http://it.wikipedia.org\" href=\"https://it.wikipedia.org\">it.wikipedia</a>",
+    "imageLicense": "cc-by-3.0",
+    "imageStatus": "verified_commons"
   },
   {
     "slug": "crumar-bassman",
@@ -984,10 +984,10 @@
     "description": "EMS Spectron is a professional audio production software developed by the Swedish company Elektron Music Machines. It is used by professional musicians, producers, and sound engineers to create and mix music. It features a powerful sequencer, a wide range of effects, and a comprehensive library of samples. It also includes a range of tools for sound design, such as a synthesizer, a sampler, and a drum machine. EMS Spectron also offers a range of features for live performance, such as a mixer, a ",
     "url": "https://synthpedia.net/ems/spectron/",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Spectre_image3-1977.jpg",
-    "imageSource": "https://commons.wikimedia.org/wiki/File:Spectre_image3-1977.jpg",
-    "imageCredit": "Transferred from en.wikipedia to Commons by Clusternote using CommonsHelper .",
-    "imageLicense": "CC BY 3.0",
-    "imageStatus": "existing_needs_review"
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3ASpectre_image3-1977.jpg",
+    "imageCredit": "<a href=\"https://en.wikipedia.org/wiki/User:Richardmonkhouse\" class=\"extiw\" title=\"wikipedia:User:Richardmonkhouse\">Richardmonkhouse</a> at <a href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\">English Wikipedia</a>",
+    "imageLicense": "cc-by-3.0",
+    "imageStatus": "verified_commons"
   },
   {
     "slug": "korg-maxi-korg-800dv",
@@ -1270,10 +1270,10 @@
     "description": "ARP String Synthesizer is an analog string synthesizer developed by ARP Instruments in the 1970s. It was used by many popular musicians of the time, including Stevie Wonder, Herbie Hancock, and Chick Corea.  The ARP String Synthesizer works by using a combination of oscillators, filters, and envelope generators to create a wide range of string-like sounds. It has a variety of features, including a polyphonic mode, a built-in chorus effect, and a built-in arpeggiator. It also has a variety of con",
     "url": "https://synthpedia.net/arp/string-synthesizer/",
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Solina_String_Synthesizer_%28right%29.jpg",
-    "imageSource": "https://commons.wikimedia.org/wiki/File:Solina_String_Synthesizer_(right).jpg",
-    "imageCredit": "ARP_2600_+_Solina_String_Synthesizer.jpg",
-    "imageLicense": "CC BY 2.0",
-    "imageStatus": "existing_needs_review"
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3ASolina_String_Synthesizer_%28right%29.jpg",
+    "imageCredit": "<ul><li><a href=\"//commons.wikimedia.org/wiki/File:ARP_2600_%2B_Solina_String_Synthesizer.jpg\" title=\"File:ARP 2600 + Solina String Synthesizer.jpg\">ARP_2600_+_Solina_String_Synthesizer.jpg</a>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/23755444@N00\">Hens Zimmerman</a></li>\n<li>derivative work: <a href=\"//commons.wikimedia.org/wiki/User:Clusternote\" title=\"User:Clusternote\">Clusternote</a> (<a href=\"//commons.wikimedia.org/wiki/User_talk:Clusternote\" title=\"User talk:Clusternote\"><span class=\"signature-talk\">talk</span></a>)</li></ul>",
+    "imageLicense": "cc-by-2.0",
+    "imageStatus": "verified_commons"
   },
   {
     "slug": "ems-synthi-e",
@@ -2062,10 +2062,10 @@
     "description": "The Korg M-500 Micro Preset is a vintage analog synthesizer from the late 1970s. It was used by many famous musicians, including Herbie Hancock, Chick Corea, and Jean-Michel Jarre. The M-500 is a monophonic synthesizer with two oscillators, a low-pass filter, and an envelope generator. It has a unique sound that is often described as \"warm\" and \"fat\". The M-500 also features a built-in arpeggiator, a portamento effect, and a noise generator. It is capable of producing a wide range of sounds, fro",
     "url": "https://synthpedia.net/korg/m-500-micro-preset/",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Titan_%40_Imperial_Club.jpg",
-    "imageSource": "https://commons.wikimedia.org/wiki/File:Titan_%40_Imperial_Club.jpg",
-    "imageCredit": "originally posted to Flickr as Titan @ Imperial Club",
-    "imageLicense": "CC BY 2.0",
-    "imageStatus": "existing_needs_review"
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3ATitan_%40_Imperial_Club.jpg",
+    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://flickr.com/people/24146462@N02\">Alfredo Gayou</a>",
+    "imageLicense": "cc-by-2.0",
+    "imageStatus": "verified_commons"
   },
   {
     "slug": "korg-ps-3100",

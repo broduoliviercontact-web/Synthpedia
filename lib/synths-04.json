@@ -214,10 +214,10 @@
     "description": "The Sequential Circuits Prophet 2000 is a digital sampling keyboard synthesizer released in 1987. It was one of the first samplers to feature a built-in hard drive, allowing users to store samples and sequences. It was used by a variety of artists, including Depeche Mode, Nine Inch Nails, and The Prodigy.  The Prophet 2000 works by sampling audio signals and storing them in its internal hard drive. It can then be used to create and manipulate sounds, either by playing back the samples or by usin",
     "url": "https://synthpedia.net/sequential-circuits/prophet-2000/",
     "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/SCI_Prophet_2002.jpg",
-    "imageSource": "https://commons.wikimedia.org/wiki/File:SCI_Prophet_2002.jpg",
-    "imageCredit": "Shawn_Rudiman's_Studio_-_sampler_rack.jpg",
-    "imageLicense": "CC BY 2.0",
-    "imageStatus": "existing_needs_review"
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3ASCI_Prophet_2002.jpg",
+    "imageCredit": "<ul><li><a href=\"//commons.wikimedia.org/wiki/File:Shawn_Rudiman%27s_Studio_-_sampler_rack.jpg\" title=\"File:Shawn Rudiman's Studio - sampler rack.jpg\">Shawn_Rudiman's_Studio_-_sampler_rack.jpg</a>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/61048090@N00\">Angie Schwendemann</a></li>\n<li>derivative work: <a href=\"//commons.wikimedia.org/wiki/User:Shoulder-synth\" title=\"User:Shoulder-synth\">Shoulder-synth</a> (<a href=\"//commons.wikimedia.org/wiki/User_talk:Shoulder-synth\" title=\"User talk:Shoulder-synth\"><span class=\"signature-talk\">talk</span></a>)</li></ul>",
+    "imageLicense": "cc-by-2.0",
+    "imageStatus": "verified_commons"
   },
   {
     "slug": "sequential-circuits-split-8",
@@ -522,10 +522,10 @@
     "description": "The Yamaha PCR-800 is a MIDI controller keyboard designed for use with computers and other MIDI devices. It has been used by many professional musicians, producers, and DJs. The keyboard features 61 full-sized keys, 8 assignable knobs, 8 assignable sliders, and 8 assignable buttons. It also has a built-in arpeggiator and a pitch bend wheel. The keyboard is USB powered and can be connected to a computer or other MIDI device via USB or MIDI cables. It also has a built-in audio interface for record",
     "url": "https://synthpedia.net/yamaha/pcr-800/",
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/80/Side_3_Studios_-_Dopest.jpg",
-    "imageSource": "https://commons.wikimedia.org/wiki/File:Side_3_Studios_-_Dopest.jpg",
-    "imageCredit": "Transferred from en.wikipedia to Commons by Clusternote using CommonsHelper .",
-    "imageLicense": "CC BY 3.0",
-    "imageStatus": "existing_needs_review"
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3ASide_3_Studios_-_Dopest.jpg",
+    "imageCredit": "<a href=\"https://en.wikipedia.org/wiki/User:Chrismarez\" class=\"extiw\" title=\"wikipedia:User:Chrismarez\">Chrismarez</a> at <a href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\">English Wikipedia</a>",
+    "imageLicense": "cc-by-3.0",
+    "imageStatus": "verified_commons"
   },
   {
     "slug": "yamaha-psr-40",
@@ -1094,10 +1094,10 @@
     "description": "The E-mu Emax is a classic sampler and synthesizer from the late 1980s and early 1990s. It was used by a variety of artists, including Depeche Mode, Nine Inch Nails, and The Prodigy.  The E-mu Emax works by sampling audio and then playing it back at different pitches and speeds. It has a variety of features, including a 16-bit sampling resolution, 8-voice polyphony, and a built-in sequencer. It also has a variety of effects, including chorus, flanging, and reverb. Additionally, it has a variety ",
     "url": "https://synthpedia.net/e-mu/emax/",
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/E-mu_Emax.jpg",
-    "imageSource": "https://commons.wikimedia.org/wiki/File:E-mu_Emax.jpg",
-    "imageCredit": "http://www.vintagesynth.com/emu/emax.php",
-    "imageLicense": "CC BY 3.0",
-    "imageStatus": "existing_needs_review"
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3AE-mu_Emax.jpg",
+    "imageCredit": "copyright holder: Matt Friedman",
+    "imageLicense": "cc-by-3.0",
+    "imageStatus": "verified_commons"
   },
   {
     "slug": "ensoniq-esq-1",
@@ -1402,10 +1402,10 @@
     "description": "The Sequential Circuits Studio 440 is a classic analog drum machine and sequencer from the 1980s. It was used by many popular artists of the time, including Prince, Depeche Mode, and New Order. The Studio 440 is a 16-track sequencer with a built-in drum machine and a variety of sound-shaping features. It has a built-in 16-step sequencer, a 16-track mixer, and a variety of sound-shaping features, including a low-pass filter, a high-pass filter, and a noise generator. It also has a built-in MIDI i",
     "url": "https://synthpedia.net/sequential-circuits/studio-440/",
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/440overhead.jpg",
-    "imageSource": "https://commons.wikimedia.org/wiki/File:440overhead.jpg",
-    "imageCredit": "Own work",
-    "imageLicense": "CC BY-SA 4.0",
-    "imageStatus": "existing_needs_review"
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3A440overhead.jpg",
+    "imageCredit": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Slaesche&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Slaesche (page does not exist)\">Slaesche</a>",
+    "imageLicense": "cc-by-sa-4.0",
+    "imageStatus": "verified_commons"
   },
   {
     "slug": "siel-dk700",
@@ -1974,10 +1974,10 @@
     "description": "The E-mu Emulator III is a classic sampler from the 1980s. It was used by many popular artists, including Depeche Mode, Nine Inch Nails, and The Prodigy. It works by sampling audio signals and storing them in memory. It has a variety of features, including a 16-bit sampling resolution, a built-in sequencer, and a variety of effects. It also has a variety of expansion cards that can be used to add additional features, such as additional memory and effects. ",
     "url": "https://synthpedia.net/e-mu/emulator-iii/",
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/E-mu_Emulator_III.jpg",
-    "imageSource": "https://commons.wikimedia.org/wiki/File:E-mu_Emulator_III.jpg",
-    "imageCredit": "http://www.vintagesynth.com/emu/emulator3.php",
-    "imageLicense": "CC BY 3.0",
-    "imageStatus": "existing_needs_review"
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3AE-mu_Emulator_III.jpg",
+    "imageCredit": "copyright holder: Matt Friedman",
+    "imageLicense": "cc-by-3.0",
+    "imageStatus": "verified_commons"
   },
   {
     "slug": "e-mu-sp-1200-drum-sampler",
@@ -1996,10 +1996,10 @@
     "description": "The E-mu SP-1200 Drum Sampler is a classic drum machine and sampler from the late 1980s. It was used by many hip-hop and electronic music producers, including Dr. Dre, DJ Premier, and the Beastie Boys. It is a powerful tool for creating beats and samples, and it has a wide range of features.  The SP-1200 has 12-bit sampling, which allows for a wide range of sounds to be sampled and manipulated. It also has a built-in sequencer, allowing users to create patterns and sequences. It has a variety of",
     "url": "https://synthpedia.net/e-mu/sp-1200-drum-sampler/",
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/46/E-mu_SP-1200_%28111607sp1200%29.jpg",
-    "imageSource": "https://commons.wikimedia.org/wiki/File:E-mu_SP-1200_(111607sp1200).jpg",
-    "imageCredit": "Own work",
-    "imageLicense": "Public domain",
-    "imageStatus": "existing_needs_review"
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3AE-mu_SP-1200_%28111607sp1200%29.jpg",
+    "imageCredit": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:2xUeL&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:2xUeL (page does not exist)\">2xUeL</a>",
+    "imageLicense": "pd",
+    "imageStatus": "verified_commons"
   },
   {
     "slug": "korg-707",

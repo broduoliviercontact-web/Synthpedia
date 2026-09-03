@@ -434,10 +434,10 @@
     "description": "Korg N1 is a synthesizer and MIDI controller released by Korg in 1998. It was used by a variety of artists, including Bjork, Radiohead, and Nine Inch Nails. The N1 is a 61-key synthesizer with a built-in sequencer and a variety of sound-shaping tools. It features a variety of synthesis types, including FM, additive, and subtractive synthesis. It also has a variety of effects, including chorus, flanger, and delay. The N1 also has a built-in arpeggiator and a variety of performance controls, inclu",
     "url": "https://synthpedia.net/korg/n1/",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/32/Meander_M1_jaredwf.png",
-    "imageSource": "https://commons.wikimedia.org/wiki/File:Meander_M1_jaredwf.png",
-    "imageCredit": "Own work - recovered image from the Wayback Machine",
-    "imageLicense": "Public domain",
-    "imageStatus": "existing_needs_review"
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3AMeander_M1_jaredwf.png",
+    "imageCredit": "<a href=\"https://en.wikipedia.org/wiki/User:Jaredwf\" class=\"extiw\" title=\"wikipedia:User:Jaredwf\">Jaredwf</a> at <a href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\">English Wikipedia</a>",
+    "imageLicense": "pd",
+    "imageStatus": "verified_commons"
   },
   {
     "slug": "korg-n1r",
@@ -522,10 +522,10 @@
     "description": "Moog Moogerfooger is a line of analog effects pedals created by Moog Music. It is used by many professional musicians, including Radiohead, Nine Inch Nails, and The Flaming Lips. The Moogerfooger line includes a variety of effects, including distortion, delay, chorus, and phaser. Each pedal has a unique set of features, allowing users to customize their sound. The pedals are designed to be used with any instrument, including guitars, keyboards, and synthesizers. The Moogerfooger line is known fo",
     "url": "https://synthpedia.net/moog/moogerfooger/",
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/40/Moogerfooger.jpg",
-    "imageSource": "https://commons.wikimedia.org/wiki/File:Moogerfooger.jpg",
-    "imageCredit": "moogerfooger",
-    "imageLicense": "CC BY 2.0",
-    "imageStatus": "existing_needs_review"
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3AMoogerfooger.jpg",
+    "imageCredit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/35237094214@N01\">Peter Lindberg</a> from Stockholm, Sweden",
+    "imageLicense": "cc-by-2.0",
+    "imageStatus": "verified_commons"
   },
   {
     "slug": "novation-supernova",
@@ -1116,10 +1116,10 @@
     "description": "Yamaha MU15 is a MIDI sound module designed for use with computers and other MIDI devices. It is a rack-mountable device that contains a variety of sounds and effects. It has been used by many professional musicians, producers, and composers.  The MU15 works by receiving MIDI data from a computer or other MIDI device and then playing back the sound associated with the data. It has a variety of features, including a 16-voice polyphony, a variety of effects, and a built-in sequencer. It also has a",
     "url": "https://synthpedia.net/yamaha/mu15/",
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Pocket_sampled_synthesizer_dsc210q_%281%29.jpg",
-    "imageSource": "https://commons.wikimedia.org/wiki/File:Pocket_sampled_synthesizer_dsc210q_(1).jpg",
-    "imageCredit": "Photo by en:User:Glogger .",
-    "imageLicense": "CC BY-SA 3.0",
-    "imageStatus": "existing_needs_review"
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3APocket_sampled_synthesizer_dsc210q_%281%29.jpg",
+    "imageCredit": "<a href=\"https://en.wikipedia.org/wiki/User:Glogger\" class=\"extiw\" title=\"wikipedia:User:Glogger\">Glogger</a> at <a href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\">English Wikipedia</a>",
+    "imageLicense": "cc-by-sa-3.0",
+    "imageStatus": "verified_commons"
   },
   {
     "slug": "yamaha-plg100-dx",
@@ -1578,10 +1578,10 @@
     "description": "The Korg Kaoss Pad is a touchpad-based effects processor and MIDI controller. It was first released in 1999 and has been used by a variety of artists, including Daft Punk, Skrillex, and Deadmau5.  The Kaoss Pad works by allowing users to manipulate sound and effects by touching the touchpad. It has a variety of features, including a built-in microphone, a variety of effects, and a loop recorder. It also has a variety of knobs and buttons that allow users to control the sound and effects. Additio",
     "url": "https://synthpedia.net/korg/kaoss-pad/",
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/KAOSS_PAD.JPG",
-    "imageSource": "https://commons.wikimedia.org/wiki/File:KAOSS_PAD.JPG",
-    "imageCredit": "Own work",
-    "imageLicense": "CC BY-SA 3.0",
-    "imageStatus": "existing_needs_review"
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3AKAOSS_PAD.JPG",
+    "imageCredit": "<a href=\"//commons.wikimedia.org/wiki/User:MTV.Home\" title=\"User:MTV.Home\">MTV.Home</a>",
+    "imageLicense": "cc-by-sa-3.0",
+    "imageStatus": "verified_commons"
   },
   {
     "slug": "korg-nx5r",
