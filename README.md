@@ -12,11 +12,9 @@ Le projet rassemble **1 667 instruments** dans une grande frise chronologique. C
 
 ## Voir le site
 
-Le prototype est accessible ici :
+Le site public est accessible ici :
 
-**[Ouvrir Synthpedia](https://synthpedia-timeline.pliskain.chatgpt.site)**
-
-Le site est actuellement privé : il faut avoir l’autorisation pour y accéder.
+**[Ouvrir Synthpedia](https://synthpedia.vercel.app/)**
 
 ## Utiliser la frise
 
@@ -49,10 +47,10 @@ Le terminal affiche ensuite l’adresse locale à ouvrir dans le navigateur.
 
 ## Où sont les données ?
 
-La liste des instruments utilisée par le site se trouve dans :
+La liste des instruments utilisée par le site est répartie dans :
 
 ```text
-lib/synths.json
+lib/synths-01.json à lib/synths-16.json
 ```
 
 Les pages et l’apparence du site se trouvent principalement dans :
@@ -68,7 +66,7 @@ components/
 - vérifier les licences et les crédits ;
 - améliorer la navigation sur téléphone ;
 - ajouter davantage de filtres et de comparaisons ;
-- ouvrir le site au public lorsque le contenu sera prêt.
+- enrichir progressivement les fiches des instruments.
 
 ---
 
