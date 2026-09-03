@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { ArrowLeft, ExternalLink } from "lucide-react";
-import synths from "@/lib/synths.json";
+import synths from "@/lib/synths";
 import { notFound } from "next/navigation";
 
 export default async function InstrumentPage({params}:{params:Promise<{slug:string}>}){
